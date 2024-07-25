@@ -1,0 +1,11 @@
+.input-container{
+    display: flex;
+    width: fit-content;
+    border: 2px solid blue;
+
+    label{
+        width: 120px;
+        display: flex;
+        align-items: center;
+    }
+}
